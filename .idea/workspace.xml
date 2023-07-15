@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729a839b-ce03-4645-8d64-23b1ca685e7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/problema01/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete001/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete001/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete002/Ciudad.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete002/Ciudad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete002/Propiedad.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete002/Propiedad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete003/BilleteraPagos.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete003/BilleteraPagos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete004/PagoAguaPotable.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete004/PagoAguaPotable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete004/PagoLuzElectrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete004/PagoLuzElectrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete004/PagoPredial.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete004/PagoPredial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete004/PagoTelefonoConvencional.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete004/PagoTelefonoConvencional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete005/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete005/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete006/DatosAgua.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete006/DatosAgua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete006/DatosLuz.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete006/DatosLuz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete006/DatosPropiedades.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete006/DatosPropiedades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete006/DatosTelefono.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete006/DatosTelefono.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema01/src/paquete006/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/problema01/src/paquete006/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ScHIw0qX7jVCRX2VtpuX0TTGc9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/mirepositorio/ape-semana13-Isaac767",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729a839b-ce03-4645-8d64-23b1ca685e7a" name="Changes" comment="" />
+      <created>1689438873259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689438873259</updated>
+      <workItem from="1689438874158" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
